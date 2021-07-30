@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+	<link rel="shortcut icon" href="http://www.helponwheelbd.org/wp-content/uploads/2020/02/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="http://www.helponwheelbd.org/wp-content/uploads/2020/02/favicon.ico" type="image/x-icon">
+<!-- Responsive -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+<title>Page not found &#8211; Helpon Wheel</title>
+<link rel='dns-prefetch' href='//js.stripe.com' />
+<link rel='dns-prefetch' href='//checkout.stripe.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Helpon Wheel &raquo; Feed" href="http://www.helponwheelbd.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Helpon Wheel &raquo; Comments Feed" href="http://www.helponwheelbd.org/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Helpon Wheel &raquo; iCal Feed" href="http://www.helponwheelbd.org/events/?ical=1" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.helponwheelbd.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.4"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='tribe-common-skeleton-style-css'  href='http://www.helponwheelbd.org/wp-content/plugins/the-events-calendar/common/src/resources/css/common-skeleton.min.css?ver=4.11.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-tooltip-css'  href='http://www.helponwheelbd.org/wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css?ver=4.11.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://www.helponwheelbd.org/wp-includes/css/dist/block-library/style.min.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://www.helponwheelbd.org/wp-includes/css/dist/block-library/theme.min.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.helponwheelbd.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='give-styles-css'  href='http://www.helponwheelbd.org/wp-content/plugins/give/assets/dist/css/give.css?ver=2.5.13' type='text/css' media='all' />
+<link rel='stylesheet' id='charitable-styles-css'  href='http://www.helponwheelbd.org/wp-content/plugins/charitable/assets/css/charitable.min.css?ver=1.6.31' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://www.helponwheelbd.org/wp-content/themes/charitemax/css/bootstrap.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.helponwheelbd.org/wp-content/themes/charitemax/css/font-awesome-all.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='flaticon-css'  href='http://www.helponwheelbd.org/wp-content/themes/charitemax/css/flaticon.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='global-css-css'  href='http://www.helponwheelbd.org/wp-content/themes/charitemax/css/global.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://www.helponwheelbd.org/wp-content/themes/charitemax/css/jquery.fancybox.min.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='http://www.helponwheelbd.org/wp-content/themes/charitemax/css/animate.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='hover-css'  href='http://www.helponwheelbd.org/wp-content/themes/charitemax/css/hover.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-theme-css'  href='http://www.helponwheelbd.org/wp-content/themes/charitemax/css/owl.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='charitemax-animate-css'  href='http://www.helponwheelbd.org/wp-content/themes/charitemax/css/custom-animate.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='charitemax-main-style-css'  href='http://www.helponwheelbd.org/wp-content/themes/charitemax/style.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='charitemax-custom-style-css'  href='http://www.helponwheelbd.org/wp-content/themes/charitemax/css/custom.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='charitemax-tut-style-css'  href='http://www.helponwheelbd.org/wp-content/themes/charitemax/css/tut.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='charitemax-gutenberg-style-css'  href='http://www.helponwheelbd.org/wp-content/themes/charitemax/css/gutenberg.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='charitemax-responsive-css'  href='http://www.helponwheelbd.org/wp-content/themes/charitemax/css/responsive.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='charitemax-theme-slug-fonts-css'  href='http://fonts.googleapis.com/css?family=Lato%3A400%2C400i%2C700%7CPoppins%3A300%2C400%2C500%2C600%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='kc-general-css'  href='http://www.helponwheelbd.org/wp-content/plugins/kingcomposer/assets/frontend/css/kingcomposer.min.css?ver=2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='kc-animate-css'  href='http://www.helponwheelbd.org/wp-content/plugins/kingcomposer/assets/css/animate.css?ver=2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='kc-icon-1-css'  href='http://www.helponwheelbd.org/wp-content/themes/charitemax/css/flaticon.css?ver=2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='kc-icon-2-css'  href='http://www.helponwheelbd.org/wp-content/plugins/kingcomposer/assets/css/icons.css?ver=2.9' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.helponwheelbd.org/wp-content/plugins/charitable/assets/js/libraries/js-cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CHARITABLE_SESSION = {"ajaxurl":"http:\/\/www.helponwheelbd.org\/wp-admin\/admin-ajax.php","id":"","cookie_name":"charitable_session","expiration":"86400","expiration_variant":"82800","secure":"","cookie_path":"\/","cookie_domain":"","generated_id":"5a099d4e935851a01ed68cee7dfdb073","disable_cookie":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.helponwheelbd.org/wp-content/plugins/charitable/assets/js/charitable-session.min.js?ver=1.6.31'></script>
+<script type='text/javascript' src='http://www.helponwheelbd.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://www.helponwheelbd.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var give_stripe_vars = {"zero_based_currency":"","zero_based_currencies_list":["JPY","KRW","CLP","ISK","BIF","DJF","GNF","KHR","KPW","LAK","LKR","MGA","MZN","VUV"],"sitename":"","publishable_key":"","checkout_image":"","checkout_address":"","checkout_processing_text":"Donation Processing...","zipcode_option":"","remember_option":"","give_version":"2.5.13","cc_fields_format":"multi","card_number_placeholder_text":"Card Number","card_cvc_placeholder_text":"CVC","donate_button_text":"Donate Now","element_font_styles":{"cssSrc":false},"element_base_styles":{"color":"#32325D","fontWeight":500,"fontSize":"16px","fontSmoothing":"antialiased","::placeholder":{"color":"#222222"},":-webkit-autofill":{"color":"#e39f48"}},"element_complete_styles":{},"element_empty_styles":{},"element_invalid_styles":{},"float_labels":"","base_country":"US","stripe_card_update":"","stripe_account_id":"","preferred_locale":"en"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://js.stripe.com/v3/?ver=2.5.13'></script>
+<script type='text/javascript' src='https://checkout.stripe.com/checkout.js?ver=2.5.13'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var give_global_vars = {"ajaxurl":"http:\/\/www.helponwheelbd.org\/wp-admin\/admin-ajax.php","checkout_nonce":"f612d0c230","currency":"USD","currency_sign":"$","currency_pos":"before","thousands_separator":",","decimal_separator":".","no_gateway":"Please select a payment method.","bad_minimum":"The minimum custom donation amount for this form is","bad_maximum":"The maximum custom donation amount for this form is","general_loading":"Loading...","purchase_loading":"Please Wait...","number_decimals":"2","give_version":"2.5.13","magnific_options":{"main_class":"give-modal","close_on_bg_click":false},"form_translation":{"payment-mode":"Please select payment mode.","give_first":"Please enter your first name.","give_email":"Please enter a valid email address.","give_user_login":"Invalid email address or username.","give_user_pass":"Enter a password.","give_user_pass_confirm":"Enter the password confirmation.","give_agree_to_terms":"You must agree to the terms and conditions."},"confirm_email_sent_message":"Please check your email and click on the link to access your complete donation history.","ajax_vars":{"ajaxurl":"http:\/\/www.helponwheelbd.org\/wp-admin\/admin-ajax.php","ajaxNonce":"f7acbf654f","loading":"Loading","select_option":"Please select an option","default_gateway":"manual","permalinks":"1","number_decimals":2},"cookie_hash":"111403e3a77e209820606129807deb57","session_nonce_cookie_name":"wp-give_session_reset_nonce_111403e3a77e209820606129807deb57","session_cookie_name":"wp-give_session_111403e3a77e209820606129807deb57","delete_session_nonce_cookie":"0"};
+var giveApiSettings = {"root":"http:\/\/www.helponwheelbd.org\/wp-json\/give-api\/v2\/","rest_base":"give-api\/v2"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.helponwheelbd.org/wp-content/plugins/give/assets/dist/js/give.js?ver=2.5.13'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var give_stripe_vars = {"zero_based_currency":"","zero_based_currencies_list":["JPY","KRW","CLP","ISK","BIF","DJF","GNF","KHR","KPW","LAK","LKR","MGA","MZN","VUV"],"sitename":"","publishable_key":"","checkout_image":"","checkout_address":"","checkout_processing_text":"Donation Processing...","zipcode_option":"","remember_option":"","give_version":"2.5.13","cc_fields_format":"multi","card_number_placeholder_text":"Card Number","card_cvc_placeholder_text":"CVC","donate_button_text":"Donate Now","element_font_styles":{"cssSrc":false},"element_base_styles":{"color":"#32325D","fontWeight":500,"fontSize":"16px","fontSmoothing":"antialiased","::placeholder":{"color":"#222222"},":-webkit-autofill":{"color":"#e39f48"}},"element_complete_styles":{},"element_empty_styles":{},"element_invalid_styles":{},"float_labels":"","base_country":"US","stripe_card_update":"","stripe_account_id":"","preferred_locale":"en"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.helponwheelbd.org/wp-content/plugins/give/assets/dist/js/give-stripe-checkout.js?ver=2.5.13'></script>
+<script type='text/javascript' src='http://www.helponwheelbd.org/wp-content/plugins/give/assets/dist/js/give-stripe.js?ver=2.5.13'></script>
+<script type='text/javascript' src='http://www.helponwheelbd.org/wp-content/plugins/give/assets/dist/js/babel-polyfill.js?ver=2.5.13'></script>
+<link rel='https://api.w.org/' href='http://www.helponwheelbd.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.helponwheelbd.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.helponwheelbd.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.4" />
+<meta name="generator" content="Give v2.5.13" />
+<script type="text/javascript">var kc_script_data={ajax_url:"http://www.helponwheelbd.org/wp-admin/admin-ajax.php"}</script><meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="http://www.helponwheelbd.org"><link rel="https://theeventscalendar.com/" href="http://www.helponwheelbd.org/wp-json/tribe/events/v1/" /><style id="charitable-highlight-colour-styles">.campaign-raised .amount,.campaign-figures .amount,.donors-count,.time-left,.charitable-form-field a:not(.button),.charitable-form-fields .charitable-fieldset a:not(.button),.charitable-notice,.charitable-notice .errors a { color:#f89d35; }.campaign-progress-bar .bar,.donate-button,.charitable-donation-form .donation-amount.selected,.charitable-donation-amount-form .donation-amount.selected { background-color:#f89d35; }.charitable-donation-form .donation-amount.selected,.charitable-donation-amount-form .donation-amount.selected,.charitable-notice,.charitable-drag-drop-images li:hover a.remove-image,.supports-drag-drop .charitable-drag-drop-dropzone.drag-over { border-color:#f89d35; }</style><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>		<style type="text/css" id="wp-custom-css">
+			.main-header .logo-outer {padding:5px 0;}
+.main-header .logo-outer .logo img {
+    width: 172px;
+}
+.sticky-header .logo img {
+    width: 115px;
+}
+.sticky-header .logo {
+    padding: 5px 0px;
+}
+#vision .author, #vision .link-btn {
+    display: none;
+}
+section#program {
+    padding: 80px 0px;
+}
+input, button, select, textarea {
+    border: 1px solid #eee;
+}
+.social-icon-three li a, .header-top .social-links a{
+	font-size: 20px
+}		</style>
+		</head>
+
+<body class="error404 give-test-mode give-page kc-css-system tribe-no-js page-template-home-helponwheelbd-public_html-wp-content-themes-charitemax-page-php">
+
+<div class="page-wrapper">
+ 	
+     	
+     	
+    <!-- main header -->
+    <header class="main-header">
+
+                <!-- header top -->
+        <div class="header-top">
+            <div class="container">
+                <div class="outer-box">
+                    <!--Top Left-->
+                    <div class="top-left">
+                        <ul class="links-nav clearfix">
+                            <li><i class="fa fa-phone"></i>Call Us Now <strong>+ 88 01743219457</strong></li>
+                            <li><i class="fa fa-envelope-open"></i>Send Us Email <strong>contact@helponwheelbd.org</strong></li>
+                        </ul>
+                    </div>
+
+                    <!--Top Right-->
+                    <div class="top-right">
+                                        			                                <div class="social-links clearfix">
+                                                                            <a href="#"><span class="fa fa-facebook-square"></span></a>
+                                                                    </div>
+							                                            </div>
+						
+                </div>
+                    
+            </div>
+        </div>
+                
+		<!--Header-Upper-->
+        <div class="header-upper">
+            <div class="container clearfix">
+                    
+                <div class="float-left logo-outer">
+                                            <div class="logo"><a href="http://www.helponwheelbd.org/"><img src="http://www.helponwheelbd.org/wp-content/uploads/2020/02/84660236_205846907134917_7020913215487868928_n.png" alt="ChariteMax" title="ChariteMax"></a></div>
+                                    </div>
+                
+                <div class="float-right upper-right clearfix">
+                    
+                    <div class="nav-outer clearfix">
+                        <!-- Main Menu -->
+                        <nav class="main-menu navbar-expand-lg">
+                            <div class="navbar-header">
+                                <!-- Toggle Button -->      
+                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                </button>
+                            </div>
+                            
+                            <div class="navbar-collapse collapse clearfix">
+                                <ul class="navigation clearfix">
+                                    <li id="menu-item-465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-465"><a href="http://www.helponwheelbd.org/" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Home</a></li>
+<li id="menu-item-466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-466"><a href="http://www.helponwheelbd.org/about-us/" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">About Us</a></li>
+<li id="menu-item-557" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-557"><a href="http://www.helponwheelbd.org/our-programs/" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Our Programs</a></li>
+<li id="menu-item-468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-468"><a href="http://www.helponwheelbd.org/causes/" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Causes</a></li>
+<li id="menu-item-472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-472"><a href="http://www.helponwheelbd.org/contact-us/" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Contact Us</a></li>
+                                </ul>
+                            </div>
+                        </nav>
+                        
+                        <!-- Main Menu End-->
+                        
+                        <!-- Search box -->
+                        <div class="outer-box">
+                                                        
+                                                        	<div class="link-btn"><a href="/causes/" class="theme-btn btn-style-two donate-box-btn">Donate Now</a></div>
+                        	                        </div>
+                        
+                    </div>
+                    
+                </div>
+                    
+            </div>
+        </div>
+        <!--End Header Upper-->
+
+        <!--Sticky Header-->
+        <div class="sticky-header">
+            <div class="container">
+                <div class="clearfix">
+                    <!--Logo-->
+                    <div class="logo float-left">
+                                                    <a href="http://www.helponwheelbd.org/" class="img-responsive"><img src="http://www.helponwheelbd.org/wp-content/uploads/2020/02/84660236_205846907134917_7020913215487868928_n.png" alt="ChariteMax" title="ChariteMax"></a>
+                                            </div>
+                    
+                    <!--Right Col-->
+                    <div class="right-col float-right">
+                        <!-- Main Menu -->
+                        <nav class="main-menu navbar-expand-lg">
+                            <div class="navbar-collapse collapse clearfix">
+                                <ul class="navigation clearfix">
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-465"><a href="http://www.helponwheelbd.org/" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-466"><a href="http://www.helponwheelbd.org/about-us/" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-557"><a href="http://www.helponwheelbd.org/our-programs/" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Our Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-468"><a href="http://www.helponwheelbd.org/causes/" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Causes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-472"><a href="http://www.helponwheelbd.org/contact-us/" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Contact Us</a></li>
+                                </ul>
+                            </div>
+                        </nav><!-- Main Menu End-->
+                    </div>
+                </div>
+                    
+            </div>
+        </div>
+        
+        <!--End Sticky Header-->
+	</header>    
+    
+<!--Page title-->
+<section class="page-title" style="background-image:url(http://www.helponwheelbd.org/wp-content/themes/charitemax/images/background/5.jpg);">
+    <div class="container">
+        <h1>Error Page</h1>
+    </div>
+</section>
+
+<div class="bread-crumb">
+    <div class="container">
+        <ul class="clearfix"><li><a href="http://www.helponwheelbd.org/">Home</a></li><li>404 - Not Found</li></ul>    </div>
+</div>
+
+<!--============error area===========-->
+<div class="error_page_area d-flex">
+    <div class="container align-self-center">
+        <div class="error_content text-center">
+            <h1>404</h1>
+            <h2>Oops! That page cannot be found</h2>
+            <p>Sorry, but the page you are looking for does not existing</p>
+            <a href="http://www.helponwheelbd.org/" class="theme-btn btn-style-two donate-box-btn">Go to home page</a>
+        </div>
+    </div>
+</div>
+<!--============error area===========-->
+		
+	
+	<div class="clearfix"></div>
+    
+	    
+    <!-- Main footer -->
+    <footer class="main-footer">
+        <div class="container">
+                                                <!--Widgets Section-->
+                    <div class="widgets-section">
+                        <div class="row clearfix">
+                            <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 footer-column"><div id="bunch_about_us-2" class="column footer-widget widget_bunch_about_us">      		
+			<div class="about-widget">
+                <div class="footer-logo">
+                    <figure>
+                        <a href="http://www.helponwheelbd.org/"><img src="http://www.helponwheelbd.org/wp-content/uploads/2020/02/84660236_205846907134917_7020913215487868928_n.png" alt="Awesome Image"></a>
+                    </figure>
+                </div>
+                <div class="widget-content">
+                    <div class="text">The vision of HOW is to make a society where everyone will get better education to change their life from rural area to everywhere. </div>
+                                    </div>
+            </div>
+            
+		</div></div><div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 footer-column"><div id="nav_menu-2"  class="column footer-widget widget_nav_menu"><h2 class="widget-title">Menu</h2><div class="menu-main-menu-container"><ul id="menu-main-menu-2" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-465"><a href="http://www.helponwheelbd.org/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-466"><a href="http://www.helponwheelbd.org/about-us/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-557"><a href="http://www.helponwheelbd.org/our-programs/">Our Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-468"><a href="http://www.helponwheelbd.org/causes/">Causes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-472"><a href="http://www.helponwheelbd.org/contact-us/">Contact Us</a></li>
+</ul></div></div></div><div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 footer-column"><div id="text-3"  class="column footer-widget widget_text"><h2 class="widget-title">Our Programs</h2>			<div class="textwidget"><ul>
+<li>Education Program</li>
+<li>Humanitarian support program</li>
+<li>Orphanage support program</li>
+<li>Disabled people support program</li>
+<li>Training &amp; livelihood program</li>
+</ul>
+</div>
+		</div></div><div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 footer-column"><div id="bunch_contact_us-2" class="column footer-widget widget_bunch_contact_us">      		
+			<!--Help Box-->
+            <div class="contact-widget">
+                <h2 class="widget-title">Contact</h2>                <div class="widget-content">
+                    <ul class="contact-info-list">
+                        <li><i class="fas fa-map-marker-alt"></i>Darul Makam Housing, Vangabari Bridge, Ati Bazar, Dhaka </li>
+                        <li><i class="fas fa-phone"></i>01743219457</li>
+                        <li><i class="fas fa-envelope-open"></i>contact@helponwheelbd.org</li>
+                    </ul>
+                </div>       
+            </div>
+            
+		</div></div>                        </div>
+                    </div>
+                                    </div>
+        
+                    <!--Footer Bottom-->
+            <div class="footer-bottom">
+                <div class="container">
+                    <div class="clearfix">
+                        <div class="float-sm-left">
+                            <div class="copyright-text">
+                                <p>Copyrights © 2020 <a href="http://www.helponwheelbd.org/">Help On Wheel Foundatıon</a>. All rights reserved.</p>
+                            </div>
+                        </div>
+                        <div class="float-sm-right">
+                            <ul>
+                                <li id="menu-item-474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-474"><a href="http://www.helponwheelbd.org/" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Home</a></li>
+<li id="menu-item-475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-475"><a href="http://www.helponwheelbd.org/about-us/" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">About Us</a></li>
+<li id="menu-item-322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-322"><a href="http://www.helponwheelbd.org/contact-us/" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Contact Us</a></li>
+                            </ul>
+                        </div>
+                    </div>   
+                </div>
+            </div>
+                
+    </footer>
+
+
+</div>
+<!--End pagewrapper-->    
+
+<!-- Scroll Top Button -->
+<button class="scroll-top scroll-to-target" data-target="html">
+    <span class="fa fa-angle-up"></span>
+</button>
+
+		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.helponwheelbd.org\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.helponwheelbd.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.6'></script>
+<script type='text/javascript' src='http://www.helponwheelbd.org/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.helponwheelbd.org/wp-content/themes/charitemax/js/popover.js?ver=2.1.2'></script>
+<script type='text/javascript' src='http://www.helponwheelbd.org/wp-content/themes/charitemax/js/bootstrap.min.js?ver=2.1.2'></script>
+<script type='text/javascript' src='http://www.helponwheelbd.org/wp-content/themes/charitemax/js/wow.js?ver=2.1.2'></script>
+<script type='text/javascript' src='http://www.helponwheelbd.org/wp-content/themes/charitemax/js/owl.js?ver=2.1.2'></script>
+<script type='text/javascript' src='http://www.helponwheelbd.org/wp-content/themes/charitemax/js/mixitup.js?ver=2.1.2'></script>
+<script type='text/javascript' src='http://www.helponwheelbd.org/wp-content/themes/charitemax/js/isotope.js?ver=2.1.2'></script>
+<script type='text/javascript' src='http://www.helponwheelbd.org/wp-content/themes/charitemax/js/appear.js?ver=2.1.2'></script>
+<script type='text/javascript' src='http://www.helponwheelbd.org/wp-content/themes/charitemax/js/jquery.fancybox.js?ver=2.1.2'></script>
+<script type='text/javascript' src='http://www.helponwheelbd.org/wp-content/themes/charitemax/js/script.js?ver=5.3.4'></script>
+<script type='text/javascript'>
+if( ajaxurl === undefined ) var ajaxurl = "http://www.helponwheelbd.org/wp-admin/admin-ajax.php";
+if( ajaxurl === undefined ) var ajaxurl = "http://www.helponwheelbd.org/wp-admin/admin-ajax.php";
+if( ajaxurl === undefined ) var ajaxurl = "http://www.helponwheelbd.org/wp-admin/admin-ajax.php";
+</script>
+<script type='text/javascript' src='http://www.helponwheelbd.org/wp-content/plugins/kingcomposer/assets/frontend/js/kingcomposer.min.js?ver=2.9'></script>
+<script type='text/javascript' src='http://www.helponwheelbd.org/wp-includes/js/wp-embed.min.js?ver=5.3.4'></script>
+</body>
+</html>
