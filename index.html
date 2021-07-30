@@ -1,0 +1,925 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>智慧旅游</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=0.5, maximum-scale=0.9, user-scalable=0">
+		<link rel="icon" href="http://v.bootstrapmb.com/2020/9/alybh8716/image/favicon.png" type="image/gif"
+			sizes="16x16">
+		<link rel="stylesheet" type="text/css" href="static/css/vendor.bundle.css">
+		<link rel="stylesheet" type="text/css" href="static/css/style.css">
+	</head>
+	<body data-spy="scroll" data-target="#navbar" data-offset="70" scroll="no">
+		<!-- Preloader -->
+		<div id="preloader">
+			<div id="status">&nbsp;</div>
+		</div><!-- -->
+		<!-- header -->
+		<header>
+			<!-- navbar -->
+			<nav id="navbar" class="navbar navbar-custom navbar-fixed-top" data-spy="affix" data-offset-top="70">
+				<div class="container">
+					<div class="row">
+						<!-- Brand and toggle get grouped for better mobile display -->
+						<div class="navbar-header page-scroll"><button type="button" class="navbar-toggle"
+								data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"><i
+									class="fa fa-bars"></i></button><a class="navbar-brand page-scroll logo-light"
+								href=""><img alt="" src="static/picture/logo.png"></a><a
+								class="navbar-brand page-scroll logo-clr" href=""><img alt=""
+									src="static/picture/logo-clr.png"></a></div>
+						<!-- Collect the nav links,forms,and other content for toggling -->
+						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+							<div class="right-nav text-right">
+								<ul class="nav navbar-nav menu">
+<!-- 									<li class="dropdown"><a href="#">Demos</a>
+										<ul class="dropdown-menu">
+											<li><a href="">Home 1</a></li>
+											<li><a href="index-s2.html">Home 2</a></li>
+											<li><a href="index-s3.html">Home 3</a></li>
+											<li><a href="index-s4.html">Home 4</a></li>
+										</ul>
+									</li>
+									<li class="dropdown"><a href="#">Pages</a>
+										<ul class="dropdown-menu">
+											<li><a href="about.html">About Us</a></li>
+											<li><a href="feature.html">Feature</a></li>
+											<li><a href="blog.html">Blog</a></li>
+											<li><a href="blog-single.html">Blog Single</a></li>
+											<li><a href="pricing.html">Pricing</a></li>
+											<li><a href="review.html">Reviews</a></li>
+											<li><a href="faq.html">FAQ</a></li>
+											<li><a href="contact.html">Contact Us</a></li>
+											<li><a href="error.html">Error 404</a></li>
+										</ul>
+									</li> -->
+									<li><a href="#feature">景点导航</a></li>
+									<li><a href="#overview">实时交通</a></li>
+									<li><a href="#pricing">巴士报站</a></li>
+								</ul>
+								<!-- <div class="nav-btn"><a href="#" class="btn">Try It for 7 Days</a></div> -->
+							</div>
+						</div><!-- /.navbar-collapse -->
+					</div>
+				</div>
+			</nav><!-- End navbar -->
+			<!-- banner -->
+			<div class="hero bg-mesh style-curve">
+				<div class="container">
+					<div class="row hero-content">
+						<div class="row">
+							<div class="col-sm-5">
+								<div class="intro-text">
+									<h1 class="heading-lg">智慧旅游MO</h1>
+									<div class="spce"></div>
+									<p class="large">一款基于澳门热门景点，附近景点，加油站等推荐，路线规划，实时路况，景点导航的微信小程序.</p>
+									<div class="btn-holder"><!-- <a href="#"><img alt=""
+												src="static/picture/is-badge-light.png"></a> --><a href="#"><img alt=""
+												src="static/picture/an-badge-light.png"></a></div>
+								</div>
+							</div>
+							<div class="col-sm-7 img-prlx">
+								<div class="text-center"><img class="scrl-img-1" data-0="transform:translateY(60px);"
+										data-500="transform:translateY(-100px);" alt=""
+										src="static/picture/img-1.png"><img class="scrl-img-2"
+										data-0="transform:translateY(0px);" data-500="transform:translateY(-300px);"
+										alt="" src="static/picture/img-2.png"><img class="scrl-img-3"
+										data-0="transform:translateY(60px);" data-500="transform:translateY(-100px);"
+										alt="" src="static/picture/img-4.png"><img class="scrl-img-4"
+										data-0="transform:translateY(80px);" data-500="transform:translateY(-100px);"
+										alt="" src="static/picture/img-4.png"><img class="scrl-img-5"
+										data-0="transform:translateY(20px);" data-500="transform:translateY(-300px);"
+										alt="" src="static/picture/img-1.png"><img class="scrl-img-6"
+										data-0="transform:translateY(80px);" data-500="transform:translateY(-100px);"
+										alt="" src="static/picture/img-2.png"><img class="scrl-img-7"
+										data-0="transform:translateY(120px);" data-500="transform:translateY(-100px);"
+										alt="" src="static/picture/img-1.png"><img class="scrl-img-8"
+										data-0="transform:translateY(60px);" data-500="transform:translateY(-300px);"
+										alt="" src="static/picture/img-4.png"><img class="scrl-img-9"
+										data-0="transform:translateY(120px);" data-500="transform:translateY(-100px);"
+										alt="" src="static/picture/img-2.png"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div><!-- End Banner -->
+		</header><!-- End header -->
+		<!-- Feature -->
+		<section  class="sec-pad-lg">
+			<div class="container">
+				<div class="row">
+					<div class="text-center section-text wow animated fadeInUp" data-wow-duration="2s"
+						data-wow-delay=".2s">
+						<h2>我们的优势</h2>
+						<div class="spce"></div>
+						<p class="large fx-wdth">我们的小程序拥有简洁美观的界面，实时路况，路线规划，景点导航.</p>
+					</div>
+					<div class="items grad-prple row">
+						<div class="text-center col-feat shad-item">
+							<div class="col-md-3 col-sm-6 res-margin wow animated fadeInUp" data-wow-duration="1.2s"
+								data-wow-delay=".2s">
+								<div class="item">
+									<div class="icon-lg"><span class="ti-mobile clip-txt"></span></div>
+									<div class="spce sm"></div>
+									<h5>简洁美观的界面</h5>
+									<div class="spce sm"></div>
+									<p><img src="static/picture/jianjiejiemian.png" </p>
+								</div>
+							</div>
+							<div class="col-md-3 col-sm-6 res-margin wow animated fadeInUp" data-wow-duration="1.2s"
+								data-wow-delay=".2s">
+								<div class="item">
+									<div class="icon-lg"><span class="ti-camera clip-txt"></span></div>
+									<div class="spce sm"></div>
+									<h5>实时路况</h5>
+									<div class="spce sm"></div>
+									<p><img src="static/picture/shisilukuan.jpg" </p>
+								</div>
+							</div>
+							<div class="col-md-3 col-sm-6 res-margin wow animated fadeInUp" data-wow-duration="1.2s"
+								data-wow-delay=".2s">
+								<div class="item">
+									<div class="icon-lg"><span class="ti-location-arrow clip-txt"></span></div>
+									<div class="spce sm"></div>
+									<h5>路线规划</h5>
+									<div class="spce sm"></div>
+									<p><img src="static/picture/luxianguihua.jpg" </p>
+								</div>
+							</div>
+							<div id="feature" class="col-md-3 col-sm-6 res-margin wow animated fadeInUp" data-wow-duration="1.2s"
+								data-wow-delay=".2s">
+								<div class="item">
+									<div class="icon-lg"><span class="ti-map-alt clip-txt"></span></div>
+									<div class="spce sm"></div>
+									<h5>景点导航</h5>
+									<div class="spce sm"></div>
+									<p><img src="static/picture/jingdiandaohang.jpg" </p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section><!-- End feature -->
+		<!-- Overview -->
+		<section class="sec-pad-lg pt-0 light">
+			<div class="text-center row">
+				<div class="col-md-12"><img data-top="width: 50%; height:auto; top: -48%; left: -48%;"
+						data-40p-bottom="width: 100%; height: auto; top: 0%; left: 0%;" alt=""
+						src="static/picture/bg-parallax-3.png">
+					<div class="text-center btn-over">
+						<h3></h3>
+						<div class="spce"></div><a class="btn-round video" href="https://www.youtube.com/watch?v=mQqdsfCyGe0"><i class="fa fa-play"
+								aria-hidden="true"></i></a>
+					</div>
+				</div>
+			</div>
+		</section><!-- // -->
+		<!-- Overview -->
+		<section class="light" data-2000="background:rgb(123, 94, 238)"
+			data-3000="background:rgb(234, 112, 207)">
+			<div class="container">
+				<div class="row sec-pad-lg">
+					<div class="col-md-8 col-md-offset-2">
+						<div class="flx-container res-center-sm align-flx-center flx-off-xs row">
+							<div class="col-sm-5 col-md-4 res-margin-sm">
+								<div class="overview-img wow animated fadeInUp" data-wow-duration="1.2s"
+									data-wow-delay=".2s"><img alt="" src="static/picture/img-4.png"></div>
+							</div>
+							<div class="col-sm-7 col-md-7 col-md-offset-1">
+								<div class="overview-text wow animated fadeInUp" data-wow-duration="1.2s"
+									data-wow-delay=".2s">
+									<div class="text">
+										<h3>景点地图</h3>
+										<div class="spce"></div>
+										<p class="large">澳门热门景点地图，了解你感兴趣的景点。以及实时路况，路线导航
+										</p>
+										<div class="spce"></div><a href="#" class="btn btn-white">现在开始</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row sec-pad-lg pt-0">
+					<div class="col-md-8 col-md-offset-2">
+						<div class="flx-container res-center-sm align-flx-center flx-off-xs row">
+							<div class="col-sm-7 col-md-7 res-margin-sm">
+								<div class="overview-text wow animated fadeInUp" data-wow-duration="1.2s"
+									data-wow-delay=".2s">
+									<div class="text">
+										<h3>附近推荐</h3>
+										<div class="spce"></div>
+										<p class="large">能够帮助你快速找到附近厕所，停车场，加油站等以及最近路线导航
+										</p>
+										<div class="spce"></div><a href="#" class="btn btn-white">现在开始</a>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-5 col-md-4 col-md-offset-1 res-margin-sm">
+								<div class="overview-img wow animated fadeInUp" data-wow-duration="1.2s"
+									data-wow-delay=".2s"><img alt="" src="static/picture/img-2.png"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section><!-- // -->
+		<!-- Pricing -->
+		<!-- <section id="pricing" class="sec-pad-lg pb-0">
+			<div class="container">
+				<div class="row">
+					<div class="row">
+						<div class="pricing wrapper">
+							<div class="text-center section-text wow animated fadeInUp" data-wow-duration="2s"
+								data-wow-delay=".2s">
+								<h2>Pricing Plans</h2>
+								<div class="spce"></div>
+								<p class="large fx-wdth">With a massive range of powerful new features with a gorgeous
+									new interface,our app is easier to use and more.</p>
+							</div>
+							<div class="pricing-btn text-center wow animated fadeInUp" data-wow-duration="1.2s"
+								data-wow-delay=".3s"><label class="toggler toggler--is-active"
+									id="filt-monthly">Monthly</label>
+								<div class="toggle"><input type="checkbox" id="switcher" class="check"><b
+										class="b switch"></b></div><label class="toggler"
+									id="filt-hourly">Yearly</label>
+							</div>
+							<div class="spce"></div>
+							<div class="pricing text-center wow animated fadeInUp" data-wow-duration="1.4s"
+								data-wow-delay=".4s">
+								<div id="monthly" class="clearfix model">
+									<div class="col-sm-4">
+										<div class="pricing-table res-margin-sm">
+											<div class="pricing-header"><img alt="" src="static/picture/icon-1.png">
+												<div class="spce"></div>
+												<div class="main-pricing">
+													<h5>Primary Plan</h5>
+													<h3 class="fw-400"><span class="rate">$0</span><span
+															class="meta fw-300">/ month</span></h3>
+												</div>
+											</div>
+											<div class="pricing-content">
+												<div class="pricing-feature">
+													<ul>
+														<li>24/7 Support</li>
+														<li>Free Update</li>
+														<li>unimited download</li>
+														<li>1 Year Licnese</li>
+														<li>Source files</li>
+													</ul>
+												</div>
+											</div>
+											<div class="pricing-footer">
+												<div class="pricing-footer"><a class="btn btn-primary" href="#"><span
+															class="">Try iT Now</span></a></div>
+											</div>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="pricing-table res-margin-sm">
+											<div class="pricing-header"><img alt="" src="static/picture/icon-2.png">
+												<div class="spce"></div>
+												<div class="main-pricing">
+													<h5>Popular Plan</h5>
+													<h3 class="fw-400"><span class="rate">$20</span><span
+															class="meta fw-300">/ month</span></h3>
+												</div>
+											</div>
+											<div class="pricing-content">
+												<div class="pricing-feature">
+													<ul>
+														<li>24/7 Support</li>
+														<li>Free Update</li>
+														<li>unimited download</li>
+														<li>1 Year Licnese</li>
+														<li>Source files</li>
+													</ul>
+												</div>
+											</div>
+											<div class="pricing-footer">
+												<div class="pricing-footer"><a class="btn btn-primary" href="#"><span
+															class="">Try iT Now</span></a></div>
+											</div>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="pricing-table res-margin-sm">
+											<div class="pricing-header"><img alt="" src="static/picture/icon-3.png">
+												<div class="spce"></div>
+												<div class="main-pricing">
+													<h5>Business Plan</h5>
+													<h3 class="fw-400"><span class="rate">$100</span><span
+															class="meta fw-300">/ month</span></h3>
+												</div>
+											</div>
+											<div class="pricing-content">
+												<div class="pricing-feature">
+													<ul>
+														<li>24/7 Support</li>
+														<li>Free Update</li>
+														<li>unimited download</li>
+														<li>1 Year Licnese</li>
+														<li>Source files</li>
+													</ul>
+												</div>
+											</div>
+											<div class="pricing-footer">
+												<div class="pricing-footer"><a class="btn btn-primary" href="#"><span
+															class="">Try iT Now</span></a></div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div id="hourly" class="none clearfix model">
+									<div class="col-sm-4">
+										<div class="pricing-table res-margin-sm">
+											<div class="pricing-header"><img alt="" src="static/picture/icon-1.png">
+												<div class="spce"></div>
+												<div class="main-pricing">
+													<h5>Primary Plan</h5>
+													<h3 class="fw-400"><span class="rate">$300</span><span
+															class="meta fw-300">/ Yearly</span></h3>
+												</div>
+											</div>
+											<div class="pricing-content">
+												<div class="pricing-feature">
+													<ul>
+														<li>24/7 Support</li>
+														<li>Free Update</li>
+														<li>unimited download</li>
+														<li>1 Year Licnese</li>
+														<li>Source files</li>
+													</ul>
+												</div>
+											</div>
+											<div class="pricing-footer">
+												<div class="pricing-footer"><a class="btn btn-primary" href="#"><span
+															class="">Try iT Now</span></a></div>
+											</div>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="pricing-table res-margin-sm">
+											<div class="pricing-header"><img alt="" src="static/picture/icon-2.png">
+												<div class="spce"></div>
+												<div class="main-pricing">
+													<h5>Popular Plan</h5>
+													<h3 class="fw-400"><span class="rate">$500</span><span
+															class="meta fw-300">/ Yearly</span></h3>
+												</div>
+											</div>
+											<div class="pricing-content">
+												<div class="pricing-feature">
+													<ul>
+														<li>24/7 Support</li>
+														<li>Free Update</li>
+														<li>unimited download</li>
+														<li>1 Year Licnese</li>
+														<li>Source files</li>
+													</ul>
+												</div>
+											</div>
+											<div class="pricing-footer">
+												<div class="pricing-footer"><a class="btn btn-white" href="#"><span
+															class="">Try iT Now</span></a></div>
+											</div>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="pricing-table res-margin-sm">
+											<div class="pricing-header"><img alt="" src="static/picture/icon-3.png">
+												<div class="spce"></div>
+												<div class="main-pricing">
+													<h5>Business Plan</h5>
+													<h3 class="fw-400"><span class="rate">$900</span><span
+															class="meta fw-300">/ Yearly</span></h3>
+												</div>
+											</div>
+											<div class="pricing-content">
+												<div class="pricing-feature">
+													<ul>
+														<li>24/7 Support</li>
+														<li>Free Update</li>
+														<li>unimited download</li>
+														<li>1 Year Licnese</li>
+														<li>Source files</li>
+													</ul>
+												</div>
+											</div>
+											<div class="pricing-footer">
+												<div class="pricing-footer"><a class="btn btn-primary" href="#"><span
+															class="">Try iT Now</span></a></div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section> --><!-- End Pricing -->
+		<!-- Screenshot -->
+		<section class="sec-pad-lg">
+			<div class="container">
+				<div class="row">
+					<div class="text-center section-text wow animated fadeInUp" data-wow-duration="2s"
+						data-wow-delay=".2s">
+						<h2>智慧旅游</h2>
+						<div class="spce"></div>
+						<p class="large fx-wdth">简单方便的使用，帮助你更好地游澳门</p>
+					</div>
+					<div class="screenshot wow animated fadeInUp" data-wow-duration="2s" data-wow-delay=".3s">
+						<div class="swiper-container">
+							<div class="swiper-wrapper">
+								<div class="swiper-slide"><img alt="" src="static/picture/img-1.png"></div>
+								<div class="swiper-slide"><img alt="" src="static/picture/img-2.png"></div>
+								<div class="swiper-slide"><img alt="" src="static/picture/img-3.png"></div>
+								<div class="swiper-slide"><img alt="" src="static/picture/img-4.png"></div>
+								<div class="swiper-slide"><img alt="" src="static/picture/img-5.png"></div>
+								<div class="swiper-slide"><img alt="" src="static/picture/img-6.png"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section><!-- // -->
+		<!--Count -->
+		<!-- <section class="sec-pad-lg bg-icon">
+			<div class="container">
+				<div class="row">
+					<div class="text-center section-text wow animated fadeInUp" data-wow-duration="2s"
+						data-wow-delay=".2s">
+						<h4>Ready for your next step?</h4>
+						<div class="spce"></div>
+						<p class="large fx-wdth">With a massive range of powerful new features with a gorgeous new
+							interface,our app is easier to use and more.</p>
+					</div>
+					<div class="col-md-6 col-md-offset-3">
+						<div class="row text-center res-center-sm">
+							<div class="col-sm-4 res-margin-sm wow animated fadeInUp" data-wow-duration="2s"
+								data-wow-delay=".2s">
+								<div class="text">
+									<h4><span class="counter mg-0">78</span><span>k+</span></h4>
+									<p>App Users</p>
+								</div>
+							</div>
+							<div class="col-sm-4 res-margin-sm wow animated fadeInUp" data-wow-duration="2s"
+								data-wow-delay=".3s">
+								<div class="text">
+									<h4><span class="counter mg-0">37</span><span>k+</span></h4>
+									<p>Growth Record</p>
+								</div>
+							</div>
+							<div class="col-sm-4 res-margin-sm wow animated fadeInUp" data-wow-duration="2s"
+								data-wow-delay=".4s">
+								<div class="text">
+									<h4><span class="counter mg-0">11</span><span>k+</span></h4>
+									<div class="spce sm">Happy Users</div>
+									<p></p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section> --><!-- End count -->
+		<!-- Feature -->
+		<section id="overview" class="sec-pad-lg bg-gray grdnt-purple light">
+			<div class="container">
+				<div class="row">
+					<div class="text-center section-text wow animated fadeInUp" data-wow-duration="2s"
+						data-wow-delay=".2s">
+						<h2>澳门实时交通</h2>
+						<div class="spce"></div>
+						<p class="large fx-wdth"><a href="http://umfst.top/"><strong>查看</strong></a>澳门实时交通拥堵状况 </p>
+					</div>
+					
+					
+					<div >
+						<div >
+							<div  data-wow-duration="1.2s"
+								data-wow-delay=".2s">
+								
+									
+									<div style="text-align: center;"><img alt="" src="static/picture/erweima.png" ></div>
+									<br/>
+									<br/>
+									<iframe src="http://umfst.top/"
+									        height="600"
+									        width="100%"
+									        frameborder="0"
+									        scrolling="0"
+											style="border: 0px;"
+											allowfullscreen
+									></iframe>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section><!-- End feature -->
+		<!-- Testimonial -->
+<!-- 		<section class="testimonial bg-gray sec-pad-lg">
+			<div class="text-center section-text wow animated fadeInUp" data-wow-duration="2s" data-wow-delay=".2s">
+				<h2>Inspired Reviews</h2>
+				<div class="spce"></div>
+				<p class="large fx-wdth">With a massive range of powerful new features with a gorgeous new interface,our
+					app is easier to use and more.</p>
+			</div>
+			<div class="owl-carousel grad-yellow quote  quote-wrapper wow animated fadeInUp" data-wow-duration="1.2s"
+				data-wow-delay=".2s">
+				<div class="quote-item clearfix"><img class="quote-img" alt="" src="static/picture/quote.png">
+					<div class="spce"></div>
+					<div class="quote-text">
+						<h5>“Mappox gives us a scalable,long-term solution for running our service,so we don’t have to
+							jump from provider to provider as our business grows.”</h5>
+						<div class="spce"></div>
+						<div class="profile-img"><img alt="" src="static/picture/profile-img.jpg"></div>
+						<div class="profile clearfix">
+							<h6 class="heading">Roger Bentham</h6>
+							<p>Manager</p>
+						</div>
+					</div>
+				</div>
+				<div class="quote-item clearfix"><img class="quote-img" alt="" src="static/picture/quote.png">
+					<div class="spce"></div>
+					<div class="quote-text">
+						<h5>“Mappox gives us a scalable,long-term solution for running our service,so we don’t have to
+							jump from provider to provider as our business grows.”</h5>
+						<div class="spce"></div>
+						<div class="profile-img"><img alt="" src="static/picture/profile-img-2.jpg"></div>
+						<div class="profile clearfix">
+							<h6 class="heading">Roger Bentham</h6>
+							<p>Manager</p>
+						</div>
+					</div>
+				</div>
+				<div class="quote-item clearfix"><img class="quote-img" alt="" src="static/picture/quote.png">
+					<div class="spce"></div>
+					<div class="quote-text">
+						<h5>“Mappox gives us a scalable,long-term solution for running our service,so we don’t have to
+							jump from provider to provider as our business grows.”</h5>
+						<div class="spce"></div>
+						<div class="profile-img"><img alt="" src="static/picture/profile-img-3.jpg"></div>
+						<div class="profile clearfix">
+							<h6 class="heading">Roger Bentham</h6>
+							<p>Manager</p>
+						</div>
+					</div>
+				</div>
+				<div class="quote-item clearfix"><img class="quote-img" alt="" src="static/picture/quote.png">
+					<div class="spce"></div>
+					<div class="quote-text">
+						<h5>“Mappox gives us a scalable,long-term solution for running our service,so we don’t have to
+							jump from provider to provider as our business grows.”</h5>
+						<div class="spce"></div>
+						<div class="profile-img"><img alt="" src="static/picture/profile-img.jpg"></div>
+						<div class="profile clearfix">
+							<h6 class="heading">Roger Bentham</h6>
+							<p>Manager</p>
+						</div>
+					</div>
+				</div>
+				<div class="quote-item clearfix"><img class="quote-img" alt="" src="static/picture/quote.png">
+					<div class="spce"></div>
+					<div class="quote-text">
+						<h5>“Mappox gives us a scalable,long-term solution for running our service,so we don’t have to
+							jump from provider to provider as our business grows.”</h5>
+						<div class="spce"></div>
+						<div class="profile-img"><img alt="" src="static/picture/profile-img-2.jpg"></div>
+						<div class="profile clearfix">
+							<h6 class="heading">Roger Bentham</h6>
+							<p>Manager</p>
+						</div>
+					</div>
+				</div>
+				<div class="quote-item clearfix"><img class="quote-img" alt="" src="static/picture/quote.png">
+					<div class="spce"></div>
+					<div class="quote-text">
+						<h5>“Mappox gives us a scalable,long-term solution for running our service,so we don’t have to
+							jump from provider to provider as our business grows.”</h5>
+						<div class="spce"></div>
+						<div class="profile-img"><img alt="" src="static/picture/profile-img-3.jpg"></div>
+						<div class="profile clearfix">
+							<h6 class="heading">Roger Bentham</h6>
+							<p>Manager</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section> --><!-- End testimonial -->
+		<!--Blog -->
+		<section id="pricing" class="sec-pad-lg" id="blog">
+			<div class="container">
+				<div class="row">
+					<div class="text-center section-text wow animated fadeInUp" data-wow-duration="2s"
+						data-wow-delay=".2s">
+						<h2>巴士报站</h2>
+					</div>
+					<div class="post row wow animated fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s">
+						<div class="col-sm-4 res-margin">
+							<div class="post-col"><a href="blog-single.html"><img alt=""
+										src="static/picture/bashi1.png"></a>
+								<div class="post-content">
+									<div class="spce md"></div>
+									<div class="category"><a href="#">关注站点</a></div>
+									<div class="post-text"><a href="blog-single.html">
+											<h5>能够收藏常用站点以便快速了解到想要乘坐的公交距离当前公交站的时间</h5>
+										</a></div>
+					<!-- 				<ul class="post-meta clearfix">
+										<li><a href="blog-single.html"><i class="fa fa-user" aria-hidden="true"></i>Adam
+												moris</a></li>
+										<li><a href=""><i class="fa fa-calendar" aria-hidden="true"></i>Jun 20,2020</a>
+										</li>
+									</ul> -->
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-4 res-margin">
+							<div class="post-col"><a href="blog-single.html"><img alt=""
+										src="static/picture/bashi2.png"></a>
+								<div class="post-content">
+									<div class="spce md"></div>
+									<div class="category"><a href="#">路线选择</a></div>
+									<div class="post-text"><a href="blog-single.html">
+											<h5>包含了澳门所有的公交路线</h5>
+										</a></div>
+<!-- 									<ul class="post-meta clearfix">
+										<li><a href="blog-single.html"><i class="fa fa-user" aria-hidden="true"></i>Adam
+												moris</a></li>
+										<li><a href=""><i class="fa fa-calendar" aria-hidden="true"></i>Jun 20,2020</a>
+										</li>
+									</ul> -->
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-4 res-margin">
+							<div class="post-col"><a href="blog-single.html"><img alt=""
+										src="static/picture/bashi3.png"></a>
+								<div class="post-content">
+									<div class="spce md"></div>
+									<div class="category"><a href="#">巴士位置</a></div>
+									<div class="post-text"><a href="blog-single.html">
+											<h5>能够准确的预测所要乘坐的巴士预计到达当前公交站的时间
+											</h5>
+										</a></div>
+									<!-- <ul class="post-meta clearfix">
+										<li><a href="blog-single.html"><i class="fa fa-user" aria-hidden="true"></i>Adam
+												moris</a></li>
+										<li><a href=""><i class="fa fa-calendar" aria-hidden="true"></i>Jun 20,2020</a>
+										</li>
+									</ul> -->
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section><!-- End blog -->
+		<!-- subscribe -->
+		<!-- <div class="sec-pad-lg grdnt-purple light">
+			<div class="container">
+				<div class="row">
+					<div class="subscribe-box wow animated fadeInUp" data-wow-duration="2s" data-wow-delay=".2s">
+						<div class="text-center section-text">
+							<h3>Everything about customizing can be bettter</h3>
+						</div>
+						<div class="spce"></div>
+						<p class="large text-center">Subscribe for latest email,update,news</p>
+						<div class="spce sm"></div>
+						<div class="sub-input subscribe custom-form">
+							<form class="mailchimp custom-form">
+								<div class="form-group"><input type="email" name="subscribe" id="subscriber-email"
+										placeholder="Enter your Email" class="form-control"></div><button type="submit"
+									id="subscribe-button" class="btn btn-white">Subscribe</button>
+							</form>
+							<div class="text-center light result-box">
+								<h5 class="subscription-success"></h5>
+								<h5 class="subscription-error"></h5><label class="subscription-label"
+									for="subscriber-email"></label>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div> --><!-- end subscribe -->
+		<!-- FAQS-->
+		<!-- <section class="sec-pad-lg">
+			<div class="container">
+				<div class="row">
+					<div class="row">
+						<div class="col-md-10 col-md-offset-1">
+							<div class="faq-wrapper row">
+								<div class="text-center section-text wow animated fadeInUp" data-wow-duration="2s"
+									data-wow-delay=".2s">
+									<h2>FAQS</h2>
+									<div class="spce"></div>
+									<p class="large fx-wdth">With a massive range of powerful new features with a
+										gorgeous new interface,our app is easier to use and more.</p>
+								</div>
+								<div class="row">
+									<div class="faq-items col-md-8">
+										<div class="col-sm-6 res-margin wow  fadeInUp animated" data-wow-duration="1.2s"
+											data-wow-delay=".2s">
+											<div class="item">
+												<h5>How to install ?</h5>
+												<p>Focus on what matters—building a great user experience. Use your
+													native visualization components.</p>
+											</div>
+										</div>
+										<div class="col-sm-6 res-margin wow  fadeInUp animated" data-wow-duration="1.2s"
+											data-wow-delay=".2s">
+											<div class="item">
+												<h5>Is this free ?</h5>
+												<p>Focus on what matters—building a great user experience. Use your
+													native visualization components.</p>
+											</div>
+										</div>
+										<div class="spce lg"></div>
+										<div class="col-sm-6 res-margin wow  fadeInUp animated" data-wow-duration="1.2s"
+											data-wow-delay=".2s">
+											<div class="item">
+												<h5>Where i can get this?</h5>
+												<p>Focus on what matters—building a great user experience. Use your
+													native visualization components.</p>
+											</div>
+										</div>
+										<div class="col-sm-6 res-margin wow  fadeInUp animated" data-wow-duration="1.2s"
+											data-wow-delay=".2s">
+											<div class="item">
+												<h5>Can i get refund ?</h5>
+												<p>Focus on what matters—building a great user experience. Use your
+													native visualization components.</p>
+											</div>
+										</div>
+										<div class="spce lg"></div>
+										<div class="col-sm-6 res-margin wow  fadeInUp animated" data-wow-duration="1.2s"
+											data-wow-delay=".2s">
+											<div class="item">
+												<h5>Validity of use?</h5>
+												<p>Focus on what matters—building a great user experience. Use your
+													native visualization components.</p>
+											</div>
+										</div>
+										<div class="col-sm-6 res-margin wow  fadeInUp animated" data-wow-duration="1.2s"
+											data-wow-delay=".2s">
+											<div class="item">
+												<h5>How to use this?</h5>
+												<p>Focus on what matters—building a great user experience. Use your
+													native visualization components.</p>
+											</div>
+										</div>
+									</div>
+									<div class="col-md-4 wow  fadeInUp animated" data-wow-duration="1.2s"
+										data-wow-delay=".3s"><img alt="" src="static/picture/img-faq.png"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section> --><!-- -->
+		<!-- Contact-->
+		<!-- <section class="contact sec-pad-lg pt-0">
+			<div class="container">
+				<div class="row bg-gray sec-pad">
+					<div class="row">
+						<div class="col-xs-10 col-xs-offset-1  wow animated fadeInUp" data-wow-duration="1s"
+							data-wow-delay=".2s">
+							<div class="row">
+								<div class="col-md-5 col-sm-5 res-margin">
+									<ul class="grad-prple right-dir-col">
+										<li><span class="icon-sm clip-txt"><i class="ti-map"></i></span>
+											<div class="text">
+												<h6>Address</h6>131 Dartmouth Street <br>Boston,Massachusetts 02116
+												<br>United States
+											</div>
+											<div class="spce"></div>
+										</li>
+										<li><span class="icon-sm clip-txt"><i class="ti-mobile"></i></span>
+											<div class="text">
+												<h6>Phone</h6>+1 617 572 2000 <br>+1 17 7892 45454
+											</div>
+											<div class="spce"></div>
+										</li>
+										<li><span class="icon-sm clip-txt"><i class="ti-email"></i></span>
+											<div class="text">
+												<h6>Mail</h6>support_mail@mail.com <br>xappir_mail@mail.com
+											</div>
+										</li>
+									</ul>
+								</div>
+								<div class="col-md-7 col-sm-7">
+									<div class="contact-form">
+										<h4>Request Contact</h4>
+										<div class="spce"></div>
+										<form id="contact-form" class="custom-form" method="post"
+											action="assets/contact.php" role="form">
+											<div class="messages"></div>
+											<div class="controls">
+												<div class="form-group"><input id="form_name" type="text" name="name"
+														class="form-control" placeholder="Enter your name *"
+														required="required" data-error="Name is required.">
+													<div class="help-block with-errors"></div>
+												</div>
+												<div class="form-group"><input id="form_email" type="email" name="email"
+														class="form-control" placeholder="Enter your email *"
+														required="required" data-error="Valid email is required.">
+													<div class="help-block with-errors"></div>
+												</div>
+												<div class="form-group"><textarea id="form_message" name="message"
+														class="form-control" placeholder="Message*" rows="4"
+														required="required"
+														data-error="Please,leave us a message."></textarea>
+													<div class="help-block with-errors"></div>
+												</div><input type="submit" class="btn btn-primary" value="Send Message">
+											</div>
+										</form>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section> --><!-- -->
+		<!-- Download-->
+		<section class="cta sec-pad-lg bg-mesh">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-10 col-md-offset-1">
+						<div class="flx-container res-center-sm align-flx-center flx-off-xs row">
+							<div class="col-sm-7 col-md-7 res-margin-sm">
+								<div class="overview-text wow  fadeInUp animated" data-wow-duration="1.2s"
+									data-wow-delay=".2s">
+									<div class="text grad-blue">
+										<h3>巴士报站</h3>
+										<div class="spce"></div>
+										<div class="btn-holder"><!-- <a href="#"><img alt=""
+													src="static/picture/is-badge-light.png"></a> --><a href="#"><img alt=""
+													src="static/picture/an-badge-light.png"></a></div>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-5 col-md-4 col-md-offset-1 res-margin-sm">
+								<div class="overview-img wow  fadeInUp animated" data-wow-duration="1.2s"
+									data-wow-delay=".2s"><img alt="" src="static/picture/bashi1.png"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section><!-- -->
+		<!--Footer -->
+<!-- 		<footer class="footer-wrapper bg-gray pb-0  sec-pad">
+			<div class="container footer-content">
+				<div class="row">
+					<div class="row footer-widget">
+						<div class="col-md-3 col-sm-6 res-margin"><a class="navbar-brand" href=""><img alt=""
+									src="static/picture/logo-clr.png"></a>
+							<div class="spce"></div>
+							<p>Focus on what matters—building a great user experience. Use your native visualization
+								components.</p>
+						</div>
+						<div class="col-md-2 col-sm-6 col-md-offset-1 res-margin">
+							<h6>Product</h6>
+							<div class="spce"></div>
+							<ul>
+								<li><a href="#">Features</a></li>
+								<li><a href="#">Stories</a></li>
+								<li><a href="#">Pricing</a></li>
+							</ul>
+						</div>
+						<div class="col-md-3 col-sm-6 res-margin">
+							<h6>Support</h6>
+							<div class="spce"></div>
+							<ul>
+								<li><a href="#">Terms & Condition</a></li>
+								<li><a href="#">API</a></li>
+								<li><a href="#">Customers</a></li>
+							</ul>
+						</div>
+						<div class="col-md-3 col-sm-6">
+							<h6>Follow Us</h6>
+							<div class="spce"></div>
+							<ul>
+								<li><a href="#">Facebook</a></li>
+								<li><a href="#">Twitter</a></li>
+								<li><a href="#">Pinterest</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="spce md"></div>
+					<div class="spce"></div>
+					<div class="copyright text-center">Copyright © 2020 Mappox. <strong>Freekytheme</strong>All Rights
+						<a href="javascript:;">bootstrapmb</a>. </div>
+				</div>
+			</div>
+		</footer> --><!-- End Footer -->
+		<!-- script -->
+		<script src="static/js/vendor.bundle.js"></script>
+		<script src="static/js/script.js"></script>
+	</body>
+</html>
